@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\knv1\knv1\bin\Debug\knv1.exe.config
+C:\Users\student\source\repos\knv1\knv1\bin\Debug\knv1.exe
+C:\Users\student\source\repos\knv1\knv1\bin\Debug\knv1.pdb
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\knv1.csprojAssemblyReference.cache
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\App.g.cs
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\knv1_MarkupCompile.cache
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\knv1_MarkupCompile.lref
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\knv1.g.resources
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\knv1.Properties.Resources.resources
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\knv1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\knv1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\knv1.exe
+C:\Users\student\source\repos\knv1\knv1\obj\Debug\knv1.pdb
